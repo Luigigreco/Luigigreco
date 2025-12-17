@@ -16,7 +16,7 @@ Open-source alternative to Typeform using GitHub Issues as free database.
 
 ## 🛠️ What I'm Building
 
-**ΩSUITE** - AI-powered portfolio intelligence platform  
+AI-powered portfolio intelligence platform  
 Monte Carlo simulations • Factor analysis • Real-time market data via MCP servers
 
 **AI Agent Orchestration**  
@@ -43,8 +43,8 @@ Global IT consulting group
 **01Design** - Founded 2006  
 One of Italy's first mobile agencies (pre-iPhone era)
 
-**Clients**: Dolce&Gabbana • Bulgari • Valentino • Versace • MTV • SKY • BNP Paribas • Vodafone • ENEL  
-50+ enterprise clients • 200+ projects • 15+ industries
+**Clients**: 
+100+ enterprise clients • 200+ projects • 15+ industries
 
 **Teaching**  
 Adjunct Professor, Sapienza University (2017-2023)  
