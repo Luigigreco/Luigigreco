@@ -12,7 +12,7 @@ Hello, I'm Luigi
                                                                                            
   | When | What |                                                                          
   |------|------|                                                                          
-  | **2025** | 🚀 Founded **CONFLUX** — AI-native design studio for agentic systems |      
+  | **2025** | 🚀 Founded **CONFLUX** — UX & AI-native design studio for agentic systems |      
   | **2024** | 🤖 Deep dive into LLM orchestration, multi-agent architectures & AI UX patterns |
   | **2023** | 🔬 Started exploring generative AI applications for enterprise workflows |  
                                                                                            
