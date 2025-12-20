@@ -1,4 +1,4 @@
-Ciao, sono Luigi                                                                  
+Hello, I'm Luigi                                                                  
                                                                                            
   **Founder @ [CONFLUX](https://www.conflux-ai-studio.com)** · Agentic UX, AI Systems & Human-AI Workflows
                                                                                            
