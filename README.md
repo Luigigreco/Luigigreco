@@ -14,7 +14,7 @@
 
 | When | What |
 |------|------|
-| **2025** | 🚀 Pivoted **CONFLUX** — from UX research & design studio to AI-native studio for agentic systems |
+| **2025** | 🚀 Pivoting **CONFLUX** — from UX research & design studio to AI-native studio for agentic systems |
 | **2025** | 🧠 Building a **financial intelligence platform** powered by 50+ orchestrated AI agents |
 | **2024** | 🤖 Deep dive into LLM orchestration, multi-agent architectures & AI UX patterns |
 | **2023** | 🔬 Started exploring generative AI applications for enterprise workflows |
